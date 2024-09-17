@@ -18,7 +18,7 @@ This bot enhances interaction and engagement on your projects by automating comm
 
 ## Installation Instructions
 
-To install and run the Pump.Fun Comment Bot, follow these steps:
+To install and run the Pump.Fun Comment Bot, follow these steps: 
 
 1. Install the necessary dependencies:
    ```
